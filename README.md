@@ -77,4 +77,15 @@ Perbedaan View Cell dan View Biasa:
 1. View Biasa: logika pengambilan data ada di Controller, view hanya menampilkan data, satu controller method untuk satu halaman, vew biasa itu halaman lengkap dari controller
 2. View Cell: logika pengambilan data ada di Cell Class, bisa dipanggil dimana saja (layout, bahkan view lain), bisa dipanggil berkali-kali dengan parameter berbeda, view cell itu komponen kecil yang bisa dipasang dimana saja
 
+PRAKTIKUM 4
+
+<img width="1014" height="621" alt="Screenshot 2026-04-09 085610" src="https://github.com/user-attachments/assets/8329b726-cc57-43cb-aebf-cb19bc0098ae" />
+Membuat tabel User
+
+<img width="1916" height="1062" alt="Screenshot 2026-04-09 092101" src="https://github.com/user-attachments/assets/70472620-2fa1-4105-a2f6-0ab6637a4478" />
+Membuat model user dan controller user
+
+<img width="1919" height="1071" alt="Screenshot 2026-04-09 092158" src="https://github.com/user-attachments/assets/c6b0b66b-4709-448e-a0eb-2709bc63a30a" />
+Membuat view login
+
 # Lab7Web
