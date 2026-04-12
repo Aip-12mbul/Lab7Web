@@ -67,9 +67,10 @@ PRAKTIKUM 3
 <img width="1913" height="1066" alt="Screenshot 2026-04-09 073149" src="https://github.com/user-attachments/assets/f48e113b-c97d-4fd5-b934-3906101048e4" />
 Membuat layout utama dan modifikasi file view agar sesuai dengan layout baru
 
-Pertanyaan dan Tugas
 <img width="1517" height="228" alt="Screenshot 2026-04-09 081715" src="https://github.com/user-attachments/assets/19d2fae1-a684-4bd6-b7c6-848d0babd45d" />
 Menambahkan tanggal di database agar dapat mengambil data artikel terbaru
+
+Pertanyaan dan Tugas
 
 Manfaat utama View Layout: konsistensi tampilan di seluruh halaman, memudahkan perubahan desain dengan cukup ubah satu file layout, pemisahan antara struktur utama dan konten dinamis.
 
