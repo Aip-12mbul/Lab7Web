@@ -88,4 +88,12 @@ Membuat model user dan controller user
 <img width="1919" height="1071" alt="Screenshot 2026-04-09 092158" src="https://github.com/user-attachments/assets/c6b0b66b-4709-448e-a0eb-2709bc63a30a" />
 Membuat view login
 
+PRAKTIKUM 5
+
+<img width="1919" height="1062" alt="Screenshot 2026-04-12 072125" src="https://github.com/user-attachments/assets/30ece377-fe69-4849-92f3-859199081e11" />
+Membuat pagination untuk membatasi tampilan yang panjang dari banyak data pada sebuah website
+
+<img width="1912" height="1064" alt="Screenshot 2026-04-12 073335" src="https://github.com/user-attachments/assets/ad6a9d23-d8cc-414d-8b31-29f31a6bbf12" />
+Membuat pencarian data untuk memfilter data agar mudah ditemukan
+
 # Lab7Web
